@@ -1,7 +1,7 @@
 - 👋🏽 Kgotsong, I’m Lebogang, also known as Lebo and @Fruitymo is my developer alias.
-- 🏢 Product Marketing Manager (Azure Developer Audience) @Microsoft
+- 🏢 Go To Market, Manager, Azure Developer @Microsoft
 - 🏡 Born and living in South Africa 🌍
-- 👀 I’m interested in .NET Cloud Development and connecting with Developer Communities 
+- 👀 I’m interested in .NET Cloud Development, Data Modernization and connecting with Developer Communities 
 - 🌱 Learning how to develop web/apps on Azure (ask me about Cloud Economics)
 - 📫 You can reach me on Twitter [@LeboMadise](https://twitter.com/LeboMadise)
 
